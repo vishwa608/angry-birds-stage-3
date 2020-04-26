@@ -1,2 +1,2 @@
-# angry-birds-stage-3
-we are using constrant to atach log six to the body
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
